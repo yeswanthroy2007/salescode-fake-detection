@@ -92,7 +92,7 @@ The output folder will contain:
 - **batch_inference.py** – Processes multiple images and generates prediction logs.
 - **best_model.pth** – Trained MobileNetV2 model weights.
 - **note.md** – Summary of the project, methodology, and evaluation results.
-- **research/** – Development scripts used for dataset analysis, experimentation, model training, and evaluation.
+- **research-work/** – Development scripts used for dataset analysis, experimentation, model training, and evaluation.
 
 ---
 
